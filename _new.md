@@ -15,8 +15,5 @@ tool-name:
 ...
 ```
 
-tool-name:
-
-```markdown
+# 例: ...
 ...
-```
