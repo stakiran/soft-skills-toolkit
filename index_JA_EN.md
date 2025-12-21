@@ -1,4 +1,4 @@
-# Soft Skills Toolkit(sstk)
+# Soft Skills Toolkit (sstk)
 Links:
 
 - GitHub:
@@ -10,32 +10,29 @@ Overview:
 
 - [README](README.md)
 - How to read the TEA line
-    - T (Target): The primary intended audience for this tool
-    - E (Effect): The outcomes the audience can expect to gain
-    - A (Action): The approach this tool takes: the mindset and practices to be adopted by the audience
+    - T (Target): The primary audience for this tool
+    - E (Effect): The benefits the target audience can gain
+    - A (Action): The approach this tool takes: the mindset and practices to be installed in the target audience
 
 # Communication
 
 ## > Conversations and Meetings
 - MAMA (Meeting As An AMA): [JA](mama_meeting_as_an_ama.md) [EN](mama_meeting_as_an_ama_EN.md)
-    - T: Managers who want to draw out more input from their members
-    - E: The number of questions you can get from a single meeting increases by several times or more
-    - A: Run meetings strictly as AMAs
+    - T: Managers who want to draw out more opinions from their team members
+    - E: The number of questions you get from a single meeting increases several-fold or more
+    - A: Run meetings that are strictly AMA-focused
 - RMA (Request Me Anything): [JA](rma_request_me_anything.md) [EN](rma_request_me_anything_EN.md)
     - T: 
     - E: 
     - A: 
 
-MAMA
-RMA
+MAMA, RMA
 
 # Documentation
-Simplate
-TEA
+Simplate, TEA
 
 # Agile Work
-Casual Ajile
-PDW
+Casual Ajile, PDW
 
 # Creative Thinking
 Divergent
@@ -43,5 +40,4 @@ Divergent
 # Meta Soft Skills
 
 ## > Soft Skills Engineering
-SESSEI
-7lists
+SESSEI, 7lists

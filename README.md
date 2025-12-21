@@ -1,48 +1,52 @@
 # Soft Skills Toolkit (sstk)
 
-## Current status: Under development
+## Current Status: Under Construction
 - Expanding the toolkit
 - Tasks:
-    - 👉️ Expand the tools (at least 10+)
-    - Create a tool index/list
+    - 👉️Expand the tools (at least 10+)
+    - 👉️Create a list of tools -> [index](index.md)
     - ...
 
 ---
 
 ## What is this?
-Welcome. I'm launching Soft Skills Engineering, and I cover the theory and concepts on [sta - DEV Community](https://dev.to/stakiran). This is where I publish **tools** that help you apply soft skills in practice.
+Welcome. I'm building "soft-skill engineering" and cover its theories and concepts on [sta - DEV Community](https://dev.to/stakiran). This repository is where I publish **tools** that help you put soft skills into practice.
 
-## For users: How to use
-- "Tools" here do not mean software; they refer to things like templates, checklists, and procedures
-- Everything is written in Markdown, so you can use it immediately via copy-and-paste
-    - Of course, you can also integrate it with AI agents
+## For Users: How to Use
+
+### 👉️[Start here](index.md)
+
+### Notes
+- "Tools" here do not mean software. They refer to things like templates, checklists, and procedures.
+- Written in Markdown, so you can use them immediately via copy-and-paste.
+    - Of course, you can also integrate them with AI agents.
 - Supported languages:
     - Japanese
-    - English (files with the `_EN` suffix)
+    - English (files with `_EN` at the end of the filename)
 
-## For developers: Development
+## For Developers: Development
 About the tools:
 
 - Creating tools
-    - Write them in Markdown. The template is `_new.md`
+    - Write them in Markdown. The template is `_new.md`.
 - Translating tools
-    - The original is in Japanese
-    - Use `translator.py` to translate into English. You can run it quickly as a VSCode task
-    - Translation uses the OpenAI API
+    - The original is in Japanese.
+    - Use `translator.py` to translate into English. You can quickly run it as a task in VSCode.
+    - Translation uses the OpenAI API.
 - Deploying tools
-    - For now, the assumption is that people will browse the repository directly on GitHub
-    - I'd like to consider a static site as well. GitHub Pages should be sufficient
+    - For now, the assumption is that people will view the repository directly on GitHub.
+    - I'd also like to consider a static site. GitHub Pages should be sufficient.
 
 About repository operations:
 
-- There is only one branch: `master`
-    - Because sstk is "always unfinished"
-    - If the latest version has issues, please roll back to an earlier point as appropriate
-- Issues are welcome
-- Pull requests are not accepted
-    - Because this sstk is my work
-    - I'd like to create a separate repository later for a "sstk built by everyone"
-        - Something like `awesome-sstk`, maybe?
+- The branch is master only.
+    - Because sstk is "always unfinished."
+    - If the latest state has issues, just roll back as needed.
+- Issues are welcome.
+- Pull Requests are not accepted.
+    - Because this sstk is my work.
+    - I'd like to create a separate repository later for "sstk built together by everyone."
+        - Something like awesome-sstk?
 
 ## License
 [MIT](LICENSE)

@@ -26,16 +26,13 @@
     - E: 
     - A: 
 
-MAMA
-RMA
+MAMA, RMA
 
 # ドキュメンテーション
-Simplate
-TEA
+Simplate, TEA
 
 # アジャイル・ワーク
-Casual Ajile
-PDW
+Casual Ajile, PDW
 
 # クリエイティブ・シンキング
 Divergent
@@ -43,5 +40,4 @@ Divergent
 # メタ・ソフトスキル
 
 ## > ソフトスキル・エンジニアリング
-SESSEI
-7lists
+SESSEI, 7lists
