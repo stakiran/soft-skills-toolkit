@@ -21,9 +21,12 @@
     - T: メンバーからもっと意見を引き出したいマネージャー
     - E: 一つ会議で得られる質問の量が数倍以上増える
     - A: AMA に徹した会議を行う
+- RMA(Request Me Anything): [JA](rma_request_me_anything.md) [EN](rma_request_me_anything_EN.md)
+    - T: 
+    - E: 
+    - A: 
 
 MAMA
-RAMA
 RMA
 
 # ドキュメンテーション
