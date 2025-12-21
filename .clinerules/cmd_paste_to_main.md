@@ -16,6 +16,6 @@
 ## 指示
 エントランスページの英語版 xxxx_JP_EN.md の内容を、エントランスページ xxxx.md に書き込む python スクリプトをつくれ。
 
-`python paste_to_main.py` を実行することで動かす。
+`python cmd_paste_to_main.py` を実行することで動かす。
 
 stdout は不要。
