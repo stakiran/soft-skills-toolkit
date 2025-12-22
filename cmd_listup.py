@@ -8,6 +8,7 @@ def main():
     # プロジェクトルートの Markdown ファイル一覧取得
     entries = [f for f in os.listdir('.') if f.lower().endswith('.md')]
     # README* と index* は除外
+    # 🐰SESSEIも除外されてしまうが、いったんスルー
     files = [
         f for f in entries
         if not re.search(r'README', f, re.IGNORECASE)
