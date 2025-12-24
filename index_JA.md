@@ -27,14 +27,16 @@
     - A: マネージャーは自身を機能と捉えてインタフェースを提供し、メンバーに使ってもらう
 
 # ドキュメンテーション
-- シンプレート原則: [JA](simplate_simple_template_principle.md) [EN](simplate_simple_template_principle_EN.md)
-    - T: テンプレートをつくって配布する者、特にチームに適用する立場にある者
-    - E: テンプレートの作成コスト、共有コスト、使用コストを従来の 1/3 にする（ここでコストとは時間）
-    - A: テンプレートは一枚に収めかつカテゴリーと余白を設けて見やすくする
+
+## > 訴求
 - サマリーを書くための TEA ライン: [JA](summary_line_TEA.md) [EN](summary_line_TEA_EN.md)
     - T: ビジネスまたはテクニカルなドキュメント・記事を書くすべての人
     - E: 読み手が価値を判断する時間コストを 1/4 にする
     - A: Target, Effect, Action の三行でサマリーを書く
+- Proposal Triad: [JA](proposal_triad.md) [EN](proposal_triad_EN.md)
+    - T: 提案を行うすべての人
+    - E: 提案がスルーされる率を 1/2 にする
+    - A: 提案検討時または提案実施前の推奨確認項目が3行でまとまっているため、参考にする
 
 # アジャイル・ワーク
 - カジュアル・アジャイル: [JA](casual_ajile.md) [EN](casual_ajile_EN.md)
@@ -59,6 +61,10 @@
     - T: ソフトスキルの重要性を啓蒙したい者、または使いこなせるようになりたいエンジニアやマネージャー
     - E: ツールをつくる際の思考コストを減らせる。1 分で方向性を判断できるようになる
     - A: 観点が 7 つあるので、どれをつくりたいかを選ぶ
+- シンプレート原則: [JA](simplate_simple_template_principle.md) [EN](simplate_simple_template_principle_EN.md)
+    - T: テンプレートをつくって配布する者、特にチームに適用する立場にある者
+    - E: テンプレートの作成コスト、共有コスト、使用コストを従来の 1/3 にする（ここでコストとは時間）
+    - A: テンプレートは一枚に収めかつカテゴリーと余白を設けて見やすくする
 - SESSEI(Subjective Effect of Soft Skills Engineering Index): [JA](sessei_subjective_effect_of_soft_skills_engineering_index.md) [EN](sessei_subjective_effect_of_soft_skills_engineering_index_EN.md)
     - T: ソフトスキルの開発、推進、啓蒙といった「測定しづらい仕事」に従事する者
     - E: 測定可能となり、測定指標がなければ動かない人達を説得できるようになる
