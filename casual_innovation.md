@@ -90,8 +90,8 @@ Exploratory とは:
     - 共有ワークスペースの内容を自由に活用する
         - 遠慮やリスペクトは不要。おもちゃのように使う。好きなように使う。
 
-## 参考: Minimum Main Member Principle
+# 参考: Minimum Main Member Principle
 👉️ [Minimum Main Member Principle - DEV Community](https://dev.to/stakiran/minimum-main-member-principle-3330)
 
-## 参考: 体験性(Experiencity)
+# 参考: 体験性(Experiencity)
 👉️ [Beyond Productivity: Embracing Experiencity - DEV Community](https://dev.to/stakiran/beyond-productivity-embracing-experiencity-h91)
