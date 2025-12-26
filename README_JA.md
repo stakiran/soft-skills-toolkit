@@ -1,6 +1,8 @@
 # Soft Skills Toolkit(sstk)
 
-## 👉️[こちらからアクセス](index.md)
+## 👉️ [GitHub](index.md)
+
+## 👉️ [ウェブサイト](https://stakiran.github.io/soft-skills-toolkit/)
 
 ## ここは？
 ようこそ。私はソフトスキル・エンジニアリングを立ち上げており、理論と概念については [sta - DEV Community](https://dev.to/stakiran) にて扱っています。ここはソフトスキルの発揮に役立つ **ツール** を公開する場所です。
